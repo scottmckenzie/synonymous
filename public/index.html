@@ -29,7 +29,7 @@
 
 
 
-
+<meta property="og:updated_time" content="2017-08-03T21:20:39&#43;10:00"/>
 
 
 
@@ -93,6 +93,45 @@
   
   
   
+  
+    
+    
+
+    <div class="pa3 pa4-ns w-100 w-70-ns center">
+      
+       
+          <h1 class="flex-none">
+            Recent Posts
+          </h1>
+        
+
+      <section class="w-100 mw8">
+        
+        
+          <div class="relative w-100 mb4">
+            
+<article class="bb b--black-10">
+  <a class="db pv4 ph3 ph0-l no-underline dark-gray dim" href="/posts/bugs-bunny-ctf-2017-odd-and-even/">
+    <div class="flex flex-column flex-row-ns">
+      
+      <div class="w-100">
+        <h1 class="f3 fw1 athelas mt0 lh-title">Bugs Bunny CTF 2017 Odd And Even</h1>
+        <div class="f6 f5-l lh-copy nested-copy-line-height">
+          Odd &amp; Even Challenge   #!/usr/bin/env python import random import socket def find_seed(first, second): for i in range(0,2000): random.seed(i) rand = random.randrange(0,100) if rand == first: rand = random.randrange(0,100) if rand == second: return i def read_chunk(): data = b&#39;&#39; while True: chunk = client.recv(4096) data += chunk if len(chunk) &lt; 4096: break return data def send_number(i): client.send(str(i).encode(&#39;utf-8&#39;) + b&#39;\n&#39;) seed = find_seed(48, 90) random.seed(seed) client = socket.
+        </div>
+        
+      </div>
+    </div>
+  </a>
+</article>
+
+          </div>
+        
+      </section>
+
+    
+
+      </div>
   
 
     </main>

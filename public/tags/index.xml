@@ -6,9 +6,37 @@
     <description>Recent content in Tags on synonym&#39;s CTF writes ups</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 03 Aug 2017 21:20:39 +1000</lastBuildDate>
     
 	<atom:link href="https://synonymous.azurewebsites.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bugs Bunny</title>
+      <link>https://synonymous.azurewebsites.net/tags/bugs-bunny/</link>
+      <pubDate>Thu, 03 Aug 2017 21:20:39 +1000</pubDate>
+      
+      <guid>https://synonymous.azurewebsites.net/tags/bugs-bunny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://synonymous.azurewebsites.net/tags/programming/</link>
+      <pubDate>Thu, 03 Aug 2017 21:20:39 +1000</pubDate>
+      
+      <guid>https://synonymous.azurewebsites.net/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://synonymous.azurewebsites.net/tags/python/</link>
+      <pubDate>Thu, 03 Aug 2017 21:20:39 +1000</pubDate>
+      
+      <guid>https://synonymous.azurewebsites.net/tags/python/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
