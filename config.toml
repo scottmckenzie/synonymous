@@ -1,0 +1,4 @@
+baseURL = "https://synonymous.azurewebsites.net/"
+languageCode = "en-us"
+title = "synonym's CTF writes ups"
+theme = "ananke"
